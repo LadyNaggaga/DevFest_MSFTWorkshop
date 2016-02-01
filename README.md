@@ -15,7 +15,7 @@ Click image to  play video.In this two minute learn how to activate your free Az
 1. Go to [Azure Passes](http://www.microsoftazurepass.com/)
 2. Follow instructions in the video below. Click on image to play video
 
-[![Alt text for your video](http://www.qssolutions.nl/wp-content/uploads/2015/07/Microsoft-Azure.jpg)]https://channel9.msdn.com/Blogs/joeraio/Activating-Microsoft-Azure-Subscription-Using-Azure-Pass)
+[![Alt text for your video](http://www.qssolutions.nl/wp-content/uploads/2015/07/Microsoft-Azure.jpg)](https://channel9.msdn.com/Blogs/joeraio/Activating-Microsoft-Azure-Subscription-Using-Azure-Pass)
 
 ### [Node.js](https://nodejs.org/en/),[Socket.IO](http://socket.io/) & [Azure](https://www.dreamspark.com/Product/Product.aspx?productid=99)
 ####Video Resources 
