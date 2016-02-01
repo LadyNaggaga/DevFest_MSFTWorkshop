@@ -42,7 +42,7 @@ Adding images from a URL
  
   `{`
   
-    `console.log(cb);`
+   ` console.log(cb);`
     
   `});`
 
