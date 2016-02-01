@@ -72,7 +72,9 @@ In this section you will learn how to create a web app and enable git publishing
 5. Select a Subscription (this will be DreamSpark).
 6. Select a Resource Group or create a new one.
 7. Select an App Service plan/Location or create a new one.
+
 8. Click create
+
  ![](http://marianaggaga.com/wp-content/uploads/2016/02/webapp2.png)
 9. Click Web apps > {your new web app}.
 10. In the Web app blade, click the Deployment part.
