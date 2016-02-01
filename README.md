@@ -18,7 +18,10 @@ Click image to  play video.In this two minute learn how to activate your free Az
 ###Project Oxford API 
 Project Oxford is a suite of AI APIs from Microsoft and includes APIs around  Vision APIs, Speech APIs, and Language APIs.In this workshop we will be looking at the emotions APIs. 
 Emotions APIs detect emotions based on facial expressions.The Emotion API takes an image as an input, and returns the confidence across a set of emotions for each face in the image, as well as bounding box for the face, using the Face API. If a user has already called the Face API, they can submit the face rectangle as an optional input.The emotions detected are anger, contempt, disgust, fear, happiness, neutral, sadness, and surprise. These emotions are understood to be cross-culturally and universally communicated with particular facial expressions.
-####Signing up for Emotion API
+####Signing up for Emotion API (Are you happy/ Sad or surprised)
+
+![](http://marianaggaga.com/wp-content/uploads/2016/02/emotionapi.png)
+
 1. Go to [Project Oxford site](https://www.projectoxford.ai/)
 2. Click get free trial 
 ![](http://marianaggaga.com/wp-content/uploads/2016/02/start-trial-1.png)
