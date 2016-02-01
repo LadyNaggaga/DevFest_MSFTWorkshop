@@ -1,6 +1,6 @@
 # DevFest_MSFTWorkshop
 
-DevFest 2016 Microsoft IoT Workshop. Requirements :  Hardware  Sparkfun Weather Shield + Particle Photon, [Visual Studio Code](https://code.visualstudio.com/Download) (free, opensource and available on Mac, Linux, and Windows),  Microsoft Azure account, [Node](https://nodejs.org/en/). 
+DevFest 2016 Microsoft IoT Workshop. Requirements :  Hardware  Sparkfun Weather Shield + Particle Photon, [Visual Studio Code](https://code.visualstudio.com/Download) (free, opensource and available on Mac, Linux, and Windows),  Microsoft Azure account(ACTIVATE YOUR AZURE ACCOUNT USING [DREAMSPARK](https://www.dreamspark.com/Product/Product.aspx?productid=99)), [Node](https://nodejs.org/en/). 
 
 ## It's all about the weather/ project description 
 
@@ -9,6 +9,7 @@ DevFest 2016 Microsoft IoT Workshop. Requirements :  Hardware  Sparkfun Weather 
 ### Activate your FREE Azure Account with DreamSpark 
 [![Alt text for your video](http://www.gmlpu.org.uk/wp-content/uploads/2014/10/freestuff.jpg)](https://channel9.msdn.com/Series/Free-Cloud-for-Students/Activating-a-Free-Azure-DreamSpark-Subscription)
 click image to  play video 
+In this two minute learn how to activate your free Azure account with DreamSpark. 
 
 ### Use a FREE Azure Pass 
 1. Go to [Azure Passes](http://www.microsoftazurepass.com/)
