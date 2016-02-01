@@ -15,6 +15,17 @@ Click image to  play video.In this two minute learn how to activate your free Az
 1. Go to [Azure Passes](http://www.microsoftazurepass.com/)
 2. Follow instructions in the video below. Click on image to play video
 
+###Project Oxford API 
+Project Oxford is a suite of AI APIs from Microsoft and includes APIs around  Vision APIs, Speech APIs, and Language APIs.In this workshop we will be looking at the emotions APIs. 
+Emotions APIs detect emotions based on facial expressions.The Emotion API takes an image as an input, and returns the confidence across a set of emotions for each face in the image, as well as bounding box for the face, using the Face API. If a user has already called the Face API, they can submit the face rectangle as an optional input.The emotions detected are anger, contempt, disgust, fear, happiness, neutral, sadness, and surprise. These emotions are understood to be cross-culturally and universally communicated with particular facial expressions.
+####Signing up for Emotion API
+1. Go to [Project Oxford site](https://www.projectoxford.ai/)
+2. Click get free trial 
+3. Signing with your Microsoft account. 
+4. Show your Emotion API key 
+5. Copy and paste your key into a notepad for now. 
+####Getting started with Project Oxford API and Node.js 
+
 [![Alt text for your video](http://www.qssolutions.nl/wp-content/uploads/2015/07/Microsoft-Azure.jpg)](https://channel9.msdn.com/Blogs/joeraio/Activating-Microsoft-Azure-Subscription-Using-Azure-Pass)
 
 ### [Node.js](https://nodejs.org/en/),[Socket.IO](http://socket.io/) & [Azure](https://www.dreamspark.com/Product/Product.aspx?productid=99)
@@ -29,10 +40,6 @@ Watch [Stacey Mulcahy]( https://twitter.com/bitchwhocodes) and [Rami Sayar]( htt
 4. [Creating UI]( https://mva.microsoft.com/en-US/training-courses/building-apps-with-nodejs-jump-start-8422?l=jJXdHaKz_5804984382)
 5. [Connecting the UI to the Backend ]( https://mva.microsoft.com/en-US/training-courses/building-apps-with-nodejs-jump-start-8422?l=1nDCeaKz_504984382)
 6. [Deploying your app to Azure ]( https://mva.microsoft.com/en-US/training-courses/building-apps-with-nodejs-jump-start-8422?l=xK3w2aKz_9304984382)
-7. 
-
-### D3.js
-Getting Started with [d3.js](http://d3js.org/)
 
 ####Other Resources 
 [Install the Azure CLI tools for Mac, Windows, and Linux](http://blogs.msdn.com/b/cdndevs/archive/2014/09/11/a-chatroom-for-all-part-2-welcome-to-express-with-node-js-and-azure.aspx)
