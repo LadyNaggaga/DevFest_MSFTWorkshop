@@ -60,6 +60,36 @@ Adding images from your machine
     
   `}); `
 
+##[Create a Node.js web app in Azure App Service](https://azure.microsoft.com/en-us/documentation/articles/web-sites-nodejs-develop-deploy-mac/)
+###Create a web app in Azure App Service by using the Azure Portal
+In this section you will learn how to create a web app and enable git publishing 
+
+1. Sign in to the Azure Portal.
+2. Click the + NEW icon on the top left of the Azure Portal.
+3. Click Web + Mobile, and then click Web app.
+  ![](http://marianaggaga.com/wp-content/uploads/2016/02/webapp1.png)
+4. Enter a name for the web app in the Web app box.This name must be unique in the azurewebsites.net domain 
+5. Select a Subscription (this will be DreamSpark).
+6. Select a Resource Group or create a new one.
+7. Select an App Service plan/Location or create a new one.
+8. Click create
+ ![](http://marianaggaga.com/wp-content/uploads/2016/02/webapp2.png)
+9. Click Web apps > {your new web app}.
+10. In the Web app blade, click the Deployment part.
+ ![](http://marianaggaga.com/wp-content/uploads/2016/02/webapp10.png)
+11. In the Continuous Deployment blade, click Choose Source
+12. Click Local Git Repository, and then click OK.
+![](http://marianaggaga.com/wp-content/uploads/2016/02/webapp11.png)
+13. Set up deployment credentials if you haven't already done so.In the Web app blade, click Settings > Deployment credential 
+![](http://marianaggaga.com/wp-content/uploads/2016/02/webapp13a.png)
+Then  add a password 
+![](http://marianaggaga.com/wp-content/uploads/2016/02/webapp13b.png)
+14. In the Web app blade, click Settings, and then click Properties.To publish, you'll push to a remote Git repository. The URL for the repository is listed under GIT URL. You'll use this URL later in the tutorial.
+ ![](http://marianaggaga.com/wp-content/uploads/2016/02/webapp14.png)
+
+###Deploy a Node.js application using Git repository.
+
+##Additional Resources 
 ### [Node.js](https://nodejs.org/en/),[Socket.IO](http://socket.io/) & [Azure](https://www.dreamspark.com/Product/Product.aspx?productid=99)
 ####Video Resources 
 Watch [Stacey Mulcahy]( https://twitter.com/bitchwhocodes) and [Rami Sayar]( https://twitter.com/ramisayar) in this incredibly interesting and entertaining intro to Node.js. 
