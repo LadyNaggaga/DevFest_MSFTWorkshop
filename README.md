@@ -21,9 +21,13 @@ Emotions APIs detect emotions based on facial expressions.The Emotion API takes 
 ####Signing up for Emotion API
 1. Go to [Project Oxford site](https://www.projectoxford.ai/)
 2. Click get free trial 
+![](http://marianaggaga.com/wp-content/uploads/2016/02/start-trial-1.png)
 3. Signing with your Microsoft account. 
+![](http://marianaggaga.com/wp-content/uploads/2016/02/Microsoftaccount2.png)
 4. Show your Emotion API key 
+![](http://marianaggaga.com/wp-content/uploads/2016/02/getapikey.png)
 5. Copy and paste your key into a notepad for now. 
+
 ####Getting started with Project Oxford API and Node.js 
 
 [![Alt text for your video](http://www.qssolutions.nl/wp-content/uploads/2015/07/Microsoft-Azure.jpg)](https://channel9.msdn.com/Blogs/joeraio/Activating-Microsoft-Azure-Subscription-Using-Azure-Pass)
