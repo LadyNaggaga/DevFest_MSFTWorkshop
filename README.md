@@ -1,6 +1,6 @@
 # DevFest_MSFTWorkshop
 DevFest 2016 Microsoft Workshop. Requirements :  Hardware  Sparkfun Weather Shield + Particle Photon and Microsoft Azure account
-## It's all about the weather
+## It's all about the weather/ project description 
 
 ##Get your Azure Account 
 
