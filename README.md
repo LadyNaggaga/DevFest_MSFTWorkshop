@@ -7,7 +7,7 @@ DevFest 2016 Microsoft IoT Workshop. Requirements :  Hardware  Sparkfun Weather 
 ##Get your Azure Account 
 
 ### Activate your FREE Azure Account with DreamSpark 
-[![Alt text for your video](https://f.ch9.ms/thumbnail/32703659-2fbf-449e-b87e-a5d1fab8271f.PNG)](https://channel9.msdn.com/Series/Free-Cloud-for-Students/Activating-a-Free-Azure-DreamSpark-Subscription)
+[![Alt text for your video](http://www.gmlpu.org.uk/wp-content/uploads/2014/10/freestuff.jpg)](https://channel9.msdn.com/Series/Free-Cloud-for-Students/Activating-a-Free-Azure-DreamSpark-Subscription)
 click image to  play video 
 
 ### Use a FREE Azure Pass 
