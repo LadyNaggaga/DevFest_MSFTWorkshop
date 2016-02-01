@@ -33,7 +33,15 @@ Emotions APIs detect emotions based on facial expressions.The Emotion API takes 
 5. Copy and paste your key into a notepad for now. 
 
 ####Getting started with Project Oxford API and Node.js 
+Usage
 
+```var oxfordEemotion = require("node-oxford-emotion")(api-key)
+
+  var emotion = oxfordEmotion.recognize("url", image-url, function(cb)
+  {
+    console.log(cb);
+    
+  });```
 
 
 ### [Node.js](https://nodejs.org/en/),[Socket.IO](http://socket.io/) & [Azure](https://www.dreamspark.com/Product/Product.aspx?productid=99)
