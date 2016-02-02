@@ -92,8 +92,11 @@ Then  add a password
 ### Build a Node.js app
 This will be covered in the workshop. 
 Adding Project Oxford Emotion API to [Project Oxford Web Cam](https://github.com/bitchwhocodes/project-oxford-webcam)
+
 1. Make sure to clone the [Project Oxford Web Cam](https://github.com/bitchwhocodes/project-oxford-webcam)
+
 2. Open routes\main.js file
+
 3. Add your key 
 
 `var oxfordEemotion = require("node-oxford-emotion")(api-key)`
