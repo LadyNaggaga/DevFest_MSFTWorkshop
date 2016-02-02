@@ -149,14 +149,30 @@ Hardware
 Wifi Settings
 
 1. 2.4GHz capable router
-
 2. Channels 1-11
-
 3. WPA/WPA2 encryption
-
 4. On a broadcasted SSID network
 
 ###Connection your device over USB 
+
+1. [Using Windows](https://docs.particle.io/guide/getting-started/connect/photon/#using-windows)
+
+ - Install the [PARTICLE DRIVER](https://s3.amazonaws.com/spark-website/Particle.zip) It is fine to unzip this as a default into your     Downloads folder.
+ 
+ - Go to the Device Manager and double-click on your Particle device under Other Devices (on Windows 10 your Particle device may be listed under Ports).
+ 
+ - Click Update Driver, and select Browse for driver software on your computer.
+ 
+ - Navigate to your Downloads folder, or wherever you unzipped the drivers.
+ 
+ - The driver is called photon.cat.
+ 
+ ####Install the particle cli
+
+  -In the Command Prompt window, type: npm install -g particle-cli
+
+ 
+2. [Using OSX](https://docs.particle.io/guide/getting-started/connect/photon/#using-osx)
 
 ##Additional Resources 
 ### [Node.js](https://nodejs.org/en/),[Socket.IO](http://socket.io/) & [Azure](https://www.dreamspark.com/Product/Product.aspx?productid=99)
