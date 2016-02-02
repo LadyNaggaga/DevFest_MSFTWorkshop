@@ -1,0 +1,32 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
+#camera{
+    display:none;
+}
+
+#feedback{
+    width:500px;
+    height:100px;
+    word-wrap:break-word;
+}
+
+#photoimg{
+    float:left;
+}
+canvas{
+    float:left;
+}
+
+.buttonholder, #holders{
+    float:left;
+    width:100%;
+}
+
