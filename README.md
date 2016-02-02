@@ -105,10 +105,11 @@ Adding Project Oxford Emotion API to [Project Oxford Web Cam](https://github.com
 
 Adding to code to your Spark  Particle Photon board 
 
-1. Make sure to clone the [Project Oxford Web Cam](https://github.com/bitchwhocodes/project-oxford-webcam)
-2. Open project-oxford-webcam-master
-3. Go to the sparks folder 
-4. open sparkemotional.ino file.
+1. [Setup Spark Particle Photon board ](https://github.com/LadyNaggaga/DevFest_MSFTWorkshop/blob/master/README.md#getting-started-with-particle-photon-board)
+2. Make sure to clone the [Project Oxford Web Cam](https://github.com/bitchwhocodes/project-oxford-webcam)
+3. Open project-oxford-webcam-master
+4. Go to the sparks folder 
+5. Open sparkemotional.ino file.
 
 
 ###Deploy a Node.js application using Git repository.
