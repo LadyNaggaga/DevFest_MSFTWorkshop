@@ -147,9 +147,13 @@ Hardware
 4. Your iPhone or Android smartphone
 
 Wifi Settings
+
 1. 2.4GHz capable router
+
 2. Channels 1-11
+
 3. WPA/WPA2 encryption
+
 4. On a broadcasted SSID network
 
 ###Connection your device over USB 
