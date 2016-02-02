@@ -112,7 +112,9 @@ Adding to code to your Spark  Particle Photon board
 
 
 ###Deploy a Node.js application using Git repository.
-Now that we have learned to build a Node.js applicaiton that takes 
+
+Now that we have learned to build a Node.js applicaiton that takes
+
 1. Takes a image from your webcam 
 2. Uses the Project Oxford Emotion API to sense your emotion
 3. Uses the Spark Particle Photon to blink according to the emotion identified 
