@@ -89,7 +89,28 @@ Then  add a password
 14. In the Web app blade, click Settings, and then click Properties.To publish, you'll push to a remote Git repository. The URL for the repository is listed under GIT URL. You'll use this URL later in the tutorial.
  ![](http://marianaggaga.com/wp-content/uploads/2016/02/webapp14.png)
 
+### Build a Node.js app
+This will be covered in the workshop. 
+
 ###Deploy a Node.js application using Git repository.
+Now that we have learned to build a Node.js applicaiton that takes 
+1. Takes a image from your webcam 
+2. Uses the Project Oxford Emotion API to sense your emotion
+3. Uses the Particle Photon to blink according to the emotion idenfied 
+Let's go a head an deploy your app to Azure 
+
+1. Install Git / if you have go to step 2 
+2. Initialize a local Git repository
+   `git init`
+3. Add files to your repo
+   `git add .`
+   `git commit -m "initial commit"`
+4. Add a Git remote for pushing updates to the web app that you created in the Create a web app in Azure App Service by using the Azure Portal section
+   `git remote add azure [URL for remote repository]`
+5. Push your changes to azure `git push azure master`
+6. You will be promoted for the user name an password you created earlier Create a web app in Azure App Service by using the Azure Portal section in step 13.
+7. To view your app, click the Browse button on the Web App part in the Azure portal.
+![](http://marianaggaga.com/wp-content/uploads/2016/02/browse.png)
 
 ##Additional Resources 
 ### [Node.js](https://nodejs.org/en/),[Socket.IO](http://socket.io/) & [Azure](https://www.dreamspark.com/Product/Product.aspx?productid=99)
