@@ -122,6 +122,19 @@ Let's go a head an deploy your app to Azure
 7. To view your app, click the Browse button on the Web App part in the Azure portal.
 ![](http://marianaggaga.com/wp-content/uploads/2016/02/browse.png)
 
+## [Getting Started with Particle Photon board](https://docs.particle.io/guide/getting-started/connect/photon/)
+
+[How to get started with the Particle Photon board](https://docs.particle.io/guide/getting-started/start/photon/). 
+
+### Get your own domain name with SSL
+
+Included with your DreamSpark subscription The GitHub Student Developer Pack assembles a great set of tools and services, free to students! Get your own domain name with SSL, explore crowdsourcing, email services, and much more. Combined with the free Visual Studio Community 2015 and Visual Studio Online.
+
+1. Sign in with your  Github Student Developer pack with your DreamSpark account 
+2. Click on Get your pack 
+3. Click get pack on your github page and click yes I am student 
+4. Enter your school email and verify 
+5. Now you have Github Student Developer Pack 
 ##Additional Resources 
 ### [Node.js](https://nodejs.org/en/),[Socket.IO](http://socket.io/) & [Azure](https://www.dreamspark.com/Product/Product.aspx?productid=99)
 ####Video Resources 
