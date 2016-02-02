@@ -136,7 +136,24 @@ Let's go a head an deploy your app to Azure
 
 [How to get started with the Particle Photon board](https://docs.particle.io/guide/getting-started/start/photon/). 
 
- 
+### Prerequisites for Setup
+Software Particle Mobile App - [iPhone](https://itunes.apple.com/us/app/particle-build-photon-electron/id991459054?ls=1&mt=8) | [Android](https://play.google.com/store/apps/details?id=io.particle.android.app)
+
+Hardware
+
+1. Your Particle device, brand new and out of the box!
+2. USB to micro USB cable (included with Photon Kit and Maker Kit)
+3. Power source for USB cable (such as your computer, USB battery, or power brick)
+4. Your iPhone or Android smartphone
+
+Wifi Settings
+1. 2.4GHz capable router
+2. Channels 1-11
+3. WPA/WPA2 encryption
+4. On a broadcasted SSID network
+
+###Connection your device over USB 
+
 ##Additional Resources 
 ### [Node.js](https://nodejs.org/en/),[Socket.IO](http://socket.io/) & [Azure](https://www.dreamspark.com/Product/Product.aspx?productid=99)
 ####Video Resources 
