@@ -169,10 +169,16 @@ Wifi Settings
  
  ####Install the particle cli
 
-  -In the Command Prompt window, type: npm install -g particle-cli
+  - In the Command Prompt window, type: `npm install -g particle-cli`
 
  
 2. [Using OSX](https://docs.particle.io/guide/getting-started/connect/photon/#using-osx)
+
+####Install the particle cli
+
+  - Open terminal, type: `npm install -g particle-cli`
+  
+  
 
 ##Additional Resources 
 ### [Node.js](https://nodejs.org/en/),[Socket.IO](http://socket.io/) & [Azure](https://www.dreamspark.com/Product/Product.aspx?productid=99)
