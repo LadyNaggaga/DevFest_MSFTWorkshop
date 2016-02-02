@@ -95,17 +95,27 @@ Adding Project Oxford Emotion API to [Project Oxford Web Cam](https://github.com
 
 1. Make sure to clone the [Project Oxford Web Cam](https://github.com/bitchwhocodes/project-oxford-webcam)
 
-2. Open routes\main.js file
+2. Open routes
 
-3. Add your key 
+3. open main.js file
+
+4. Add your key 
 
 `var oxfordEemotion = require("node-oxford-emotion")(api-key)`
+
+Adding to code to your Spark  Particle Photon board 
+
+1. Make sure to clone the [Project Oxford Web Cam](https://github.com/bitchwhocodes/project-oxford-webcam)
+2. Open project-oxford-webcam-master
+3. Go to the sparks folder 
+4. open sparkemotional.ino file.
+
 
 ###Deploy a Node.js application using Git repository.
 Now that we have learned to build a Node.js applicaiton that takes 
 1. Takes a image from your webcam 
 2. Uses the Project Oxford Emotion API to sense your emotion
-3. Uses the Particle Photon to blink according to the emotion identified 
+3. Uses the Spark Particle Photon to blink according to the emotion identified 
 
 Let's go a head an deploy your app to Azure 
 
