@@ -190,7 +190,7 @@ Wifi Settings
   
 3. [Connecting your device](https://docs.particle.io/guide/getting-started/connect/photon/#connecting-your-device) 
 
-## Basic Socket Node Server 
+## Deploy to Azure
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
 ##Additional Resources 
