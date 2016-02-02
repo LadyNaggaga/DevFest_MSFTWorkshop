@@ -101,13 +101,23 @@ Let's go a head an deploy your app to Azure
 
 1. Install Git / if you have go to step 2 
 2. Initialize a local Git repository
+
    `git init`
+ 
 3. Add files to your repo
+
    `git add .`
+   
    `git commit -m "initial commit"`
+
 4. Add a Git remote for pushing updates to the web app that you created in the Create a web app in Azure App Service by using the Azure Portal section
+
    `git remote add azure [URL for remote repository]`
-5. Push your changes to azure `git push azure master`
+ 
+5. Push your changes to 
+
+   `git push azure master`
+
 6. You will be promoted for the user name an password you created earlier Create a web app in Azure App Service by using the Azure Portal section in step 13.
 7. To view your app, click the Browse button on the Web App part in the Azure portal.
 ![](http://marianaggaga.com/wp-content/uploads/2016/02/browse.png)
