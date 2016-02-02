@@ -218,5 +218,5 @@ Watch [Stacey Mulcahy]( https://twitter.com/bitchwhocodes) and [Rami Sayar]( htt
 [Quick guide to building a Node.js Chat Application with Socket.IO on Azure ](https://azure.microsoft.com/en-us/documentation/articles/cloud-services-nodejs-chat-app-socketio/)
 
 ###[Github Getting started with Node.js on Azure ](https://github.com/sayar/NodeMVA)
-###[Github Project Oxford Web Cam  ](https://github.com/bitchwhocodes/project-oxford-webcam) thi is onliy going to get better!  
+###[Github Project Oxford Web Cam  ](https://github.com/bitchwhocodes/project-oxford-webcam)   
 
