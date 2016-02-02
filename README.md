@@ -91,12 +91,19 @@ Then  add a password
 
 ### Build a Node.js app
 This will be covered in the workshop. 
+Adding Project Oxford Emotion API to [Project Oxford Web Cam](https://github.com/bitchwhocodes/project-oxford-webcam)
+1. Make sure to clone the [Project Oxford Web Cam](https://github.com/bitchwhocodes/project-oxford-webcam)
+2. Open routes\main.js file
+3. Add your key 
+
+`var oxfordEemotion = require("node-oxford-emotion")(api-key)`
 
 ###Deploy a Node.js application using Git repository.
 Now that we have learned to build a Node.js applicaiton that takes 
 1. Takes a image from your webcam 
 2. Uses the Project Oxford Emotion API to sense your emotion
-3. Uses the Particle Photon to blink according to the emotion idenfied 
+3. Uses the Particle Photon to blink according to the emotion identified 
+
 Let's go a head an deploy your app to Azure 
 
 1. Install Git / if you have go to step 2 
