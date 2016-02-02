@@ -178,7 +178,7 @@ Wifi Settings
 
   - Open terminal, type: `npm install -g particle-cli`
   
-  
+3. [Connecting your device](https://docs.particle.io/guide/getting-started/connect/photon/#connecting-your-device) 
 
 ##Additional Resources 
 ### [Node.js](https://nodejs.org/en/),[Socket.IO](http://socket.io/) & [Azure](https://www.dreamspark.com/Product/Product.aspx?productid=99)
@@ -201,5 +201,6 @@ Watch [Stacey Mulcahy]( https://twitter.com/bitchwhocodes) and [Rami Sayar]( htt
 
 [Quick guide to building a Node.js Chat Application with Socket.IO on Azure ](https://azure.microsoft.com/en-us/documentation/articles/cloud-services-nodejs-chat-app-socketio/)
 
-###[Github](https://github.com/sayar/NodeMVA) 
+###[Github Getting started with Node.js on Azure ](https://github.com/sayar/NodeMVA)
+###[Github Photon, Project Oxford API, and Node.js ](https://github.com/bitchwhocodes/project-oxford-webcam)
 
