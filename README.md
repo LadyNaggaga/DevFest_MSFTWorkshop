@@ -4,7 +4,7 @@ DevFest 2016 Microsoft IoT Workshop. Requirements :  Hardware  Sparkfun Weather 
 
 ## Project description 
 
-We will be  using the  Particle Photon and Microsoft Project Oxford Emotion API to detect your emotions. Are you anger, contempt, disgust, fear, happiness, neutral, sadness, or surprise?  Before you come to the workshop please make sure to sign up for a free Azure account  using DreamSpark (instructions below), and  Microsoft account so you can access the Project Oxford API. 
+We will be  using the  Particle Photon and Microsoft Project Oxford Emotion API to detect your emotions.  Before you come to the workshop please make sure to sign up for a free Azure account  using DreamSpark (instructions below), and  Microsoft account so you can access the Project Oxford API. 
 
 ##Step 1 Get your Azure Account 
 
@@ -35,7 +35,9 @@ Emotions APIs detect emotions based on facial expressions.The Emotion API takes 
 
 ## Step 4 [Create a  web app with Azure App Service](https://azure.microsoft.com/en-us/documentation/articles/web-sites-nodejs-develop-deploy-mac/)
 Before we build our first Node.js app fork this repo.
+
 ###Create a web app in Azure App Service using the Azure Portal
+
 In this section you will learn how to create a web app and enable git publishing 
 
 1. Sign in to the Azure Portal.
@@ -77,7 +79,8 @@ Software Particle Mobile App - [iPhone](https://itunes.apple.com/us/app/particle
 ###Sign up for Particle account
 1. Sign up for [particle account](https://build.particle.io/signup)
 2. 
-
+## Step 6  Configure web apps in Azure App Service
+Let's use our API keys. Open up your app.js file 
 ## Deploy to Azure
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
