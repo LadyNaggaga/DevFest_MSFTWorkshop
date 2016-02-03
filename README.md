@@ -66,40 +66,17 @@ In this section you will learn how to create a web app and enable git publishing
 ### Prerequisites for Setup
 Software Particle Mobile App - [iPhone](https://itunes.apple.com/us/app/particle-build-photon-electron/id991459054?ls=1&mt=8) | [Android](https://play.google.com/store/apps/details?id=io.particle.android.app)
 
-Hardware
-
 1. Your Particle device, brand new and out of the box!
+
 2. USB to micro USB cable (included with Photon Kit and Maker Kit)
+
 3. Power source for USB cable (such as your computer, USB battery, or power brick)
+
 4. Your iPhone or Android smartphone
 
-
-###Connection your device over USB 
-
-1. [Using Windows](https://docs.particle.io/guide/getting-started/connect/photon/#using-windows)
-
- - Install the [PARTICLE DRIVER](https://s3.amazonaws.com/spark-website/Particle.zip) It is fine to unzip this as a default into your     Downloads folder.
- 
- - Go to the Device Manager and double-click on your Particle device under Other Devices (on Windows 10 your Particle device may be listed under Ports).
- 
- - Click Update Driver, and select Browse for driver software on your computer.
- 
- - Navigate to your Downloads folder, or wherever you unzipped the drivers.
- 
- - The driver is called photon.cat.
- 
- ####Install the particle cli
-
-  - In the Command Prompt window, type: `npm install -g particle-cli`
-
- 
-2. [Using OSX](https://docs.particle.io/guide/getting-started/connect/photon/#using-osx)
-
-####Install the particle cli
-
-  - Open terminal, type: `npm install -g particle-cli`
-  
-3. [Connecting your device](https://docs.particle.io/guide/getting-started/connect/photon/#connecting-your-device) 
+###Sign up for Particle account
+1. Sign up for [particle account](https://build.particle.io/signup)
+2. 
 
 ## Deploy to Azure
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
@@ -127,4 +104,8 @@ Watch [Stacey Mulcahy]( https://twitter.com/bitchwhocodes) and [Rami Sayar]( htt
 
 ###[Github Getting started with Node.js on Azure ](https://github.com/sayar/NodeMVA)
 ###[Github Project Oxford Web Cam  ](https://github.com/bitchwhocodes/project-oxford-webcam)   
+
+
+
+
 
