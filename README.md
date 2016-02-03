@@ -81,7 +81,7 @@ Software Particle Mobile App - [iPhone](https://itunes.apple.com/us/app/particle
 2. 
 
 ## Step 6  Configure web apps in Azure App Service
-Let's use our API keys. Open up your app.js file 
+Let's use our API keys. Open up your routes/image.js file 
 ## Deploy to Azure
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
