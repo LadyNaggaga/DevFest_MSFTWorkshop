@@ -13,11 +13,6 @@ We will be  using the  Particle Photon and Microsoft Project Oxford Emotion API 
 
 Click image to  play video.In this two minute learn how to activate your free Azure account with DreamSpark. 
 
-### Use a FREE Azure Pass 
-1. Go to [Azure Passes](http://www.microsoftazurepass.com/)
-2. Follow instructions in the video below. Click on image to play video
-[![Alt text for your video](http://www.qssolutions.nl/wp-content/uploads/2015/07/Microsoft-Azure.jpg)](https://channel9.msdn.com/Blogs/joeraio/Activating-Microsoft-Azure-Subscription-Using-Azure-Pass)
-
 ###Project Oxford API 
 Project Oxford is a suite of AI APIs from Microsoft and includes APIs around  Vision APIs, Speech APIs, and Language APIs.In this workshop we will be looking at the emotions APIs. 
 
@@ -61,6 +56,7 @@ Adding images from your machine
   `}); `
 
 ##[Create a Node.js web app with Azure App Service](https://azure.microsoft.com/en-us/documentation/articles/web-sites-nodejs-develop-deploy-mac/)
+Before we build our first Node.js app fork this repo.
 ###Create a web app in Azure App Service using the Azure Portal
 In this section you will learn how to create a web app and enable git publishing 
 
@@ -79,15 +75,9 @@ In this section you will learn how to create a web app and enable git publishing
 9. Click Web apps > {your new web app}.
 10. In the Web app blade, click the Deployment part.
  ![](http://marianaggaga.com/wp-content/uploads/2016/02/webapp10.png)
-11. In the Continuous Deployment blade, click Choose Source
-12. Click Local Git Repository, and then click OK.
-![](http://marianaggaga.com/wp-content/uploads/2016/02/webapp11.png)
-13. Set up deployment credentials if you haven't already done so.In the Web app blade, click Settings > Deployment credential 
-![](http://marianaggaga.com/wp-content/uploads/2016/02/webapp13a.png)
-Then  add a password 
-![](http://marianaggaga.com/wp-content/uploads/2016/02/webapp13b.png)
-14. In the Web app blade, click Settings, and then click Properties.To publish, you'll push to a remote Git repository. The URL for the repository is listed under GIT URL. You'll use this URL later in the tutorial.
- ![](http://marianaggaga.com/wp-content/uploads/2016/02/webapp14.png)
+11. In the Continuous Deployment -> Click Configure Settings-> click Github
+12. Click Github, and then click OK. GitHub will  ask if you want to authorize Azure to have access to your accounts. It's safe to click Authorize application.
+13. Select your GitHub repository from the list and make sure you are deploying the master branch. Then click OK 
 
 ### Build a Node.js app
 This will be covered in the workshop. 
