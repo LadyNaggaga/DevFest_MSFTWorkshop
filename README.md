@@ -30,9 +30,10 @@ Emotions APIs detect emotions based on facial expressions.The Emotion API takes 
 ![](http://marianaggaga.com/wp-content/uploads/2016/02/getapikey.png)
 5. Copy and paste your key into a notepad for now. 
 
+## Step 3  Fork this repo
+![]() image place holder 
 
-
-##[Create a Node.js web app with Azure App Service](https://azure.microsoft.com/en-us/documentation/articles/web-sites-nodejs-develop-deploy-mac/)
+## Step 4 [Create a  web app with Azure App Service](https://azure.microsoft.com/en-us/documentation/articles/web-sites-nodejs-develop-deploy-mac/)
 Before we build our first Node.js app fork this repo.
 ###Create a web app in Azure App Service using the Azure Portal
 In this section you will learn how to create a web app and enable git publishing 
@@ -57,61 +58,6 @@ In this section you will learn how to create a web app and enable git publishing
 13. Select DevFest_MSFTWorkshop GitHub repository from the list and make sure you are deploying the master branch. Click OK 
  ![](https://cloud.githubusercontent.com/assets/3477155/9880464/bea7f6e4-5b99-11e5-9601-f7a6767e32ba.gif)
 
-### Build a Node.js app
-This will be covered in the workshop. 
-Adding Project Oxford Emotion API to [Project Oxford Web Cam](https://github.com/bitchwhocodes/project-oxford-webcam)
-
-1. Make sure to clone the [Project Oxford Web Cam](https://github.com/bitchwhocodes/project-oxford-webcam)
-
-2. Open routes
-
-3. open main.js file
-
-4. Add your key 
-
-`var oxfordEemotion = require("node-oxford-emotion")(api-key)`
-
-Adding to code to your Spark  Particle Photon board 
-
-1. [Setup Spark Particle Photon board ](https://github.com/LadyNaggaga/DevFest_MSFTWorkshop/blob/master/README.md#getting-started-with-particle-photon-board)
-2. Make sure to clone the [Project Oxford Web Cam](https://github.com/bitchwhocodes/project-oxford-webcam)
-3. Open project-oxford-webcam-master
-4. Go to the sparks folder 
-5. Open sparkemotional.ino file.
-
-
-###Deploy a Node.js application using Git repository.
-
-Now that we have learned to build a Node.js applicaiton that takes
-
-1. Takes a image from your webcam 
-2. Uses the Project Oxford Emotion API to sense your emotion
-3. Uses the Spark Particle Photon to blink according to the emotion identified 
-
-Let's go a head an deploy your app to Azure 
-
-1. Install Git / if you have go to step 2 
-2. Initialize a local Git repository
-
-   `git init`
- 
-3. Add files to your repo
-
-   `git add .`
-   
-   `git commit -m "initial commit"`
-
-4. Add a Git remote for pushing updates to the web app that you created in the Create a web app in Azure App Service by using the Azure Portal section
-
-   `git remote add azure [URL for remote repository]`
- 
-5. Push your changes to 
-
-   `git push azure master`
-
-6. You will be promoted for the user name an password you created earlier Create a web app in Azure App Service by using the Azure Portal section in step 13.
-7. To view your app, click the Browse button on the Web App part in the Azure portal.
-![](http://marianaggaga.com/wp-content/uploads/2016/02/browse.png)
 
 ## [Getting Started with Particle Photon board](https://docs.particle.io/guide/getting-started/connect/photon/)
 
