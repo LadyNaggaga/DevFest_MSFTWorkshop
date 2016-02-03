@@ -6,19 +6,18 @@ DevFest 2016 Microsoft IoT Workshop. Requirements :  Hardware  Sparkfun Weather 
 
 We will be  using the  Particle Photon and Microsoft Project Oxford Emotion API to detect your emotions. Are you anger, contempt, disgust, fear, happiness, neutral, sadness, or surprise?  Before you come to the workshop please make sure to sign up for a free Azure account  using DreamSpark (instructions below), and  Microsoft account so you can access the Project Oxford API. 
 
-##Get your Azure Account 
+##Step 1 Get your Azure Account 
 
 ### Activate your FREE Azure Account with DreamSpark 
 [![Alt text for your video](http://www.gmlpu.org.uk/wp-content/uploads/2014/10/freestuff.jpg)](https://channel9.msdn.com/Series/Free-Cloud-for-Students/Activating-a-Free-Azure-DreamSpark-Subscription)
 
 Click image to  play video.In this two minute learn how to activate your free Azure account with DreamSpark. 
 
-###Project Oxford API 
+## Step 2 Sign up for  Project Oxford Emotion API
+####What is Project Oxford API?
 Project Oxford is a suite of AI APIs from Microsoft and includes APIs around  Vision APIs, Speech APIs, and Language APIs.In this workshop we will be looking at the emotions APIs. 
 
 Emotions APIs detect emotions based on facial expressions.The Emotion API takes an image as an input, and returns the confidence across a set of emotions for each face in the image, as well as bounding box for the face, using the Face API.The emotions detected are anger, contempt, disgust, fear, happiness, neutral, sadness, and surprise. 
-
-####Signing up for Emotion API (Are you happy/ Sad or surprised)
 
 ![](http://marianaggaga.com/wp-content/uploads/2016/02/emotionapi.png)
 
@@ -31,29 +30,7 @@ Emotions APIs detect emotions based on facial expressions.The Emotion API takes 
 ![](http://marianaggaga.com/wp-content/uploads/2016/02/getapikey.png)
 5. Copy and paste your key into a notepad for now. 
 
-####Getting started with Project Oxford API and Node.js 
 
-Adding images from a URL 
-
-`var oxfordEemotion = require("node-oxford-emotion")( api-key)`
-
- ` var emotion = oxfordEmotion.recognize("url", image-url, function(cb)`
- 
-  `{`
-  
-   ` console.log(cb);`
-    
-  `});`
-
-Adding images from your machine 
-
-`var oxfordEemotion = require("node-oxford-emotion")(api-key)`
-
- `var emotion = oxfordEmotion.recognize("image", imageData, function(cb) {`
-  
-   ` console.log(cb);`
-    
-  `}); `
 
 ##[Create a Node.js web app with Azure App Service](https://azure.microsoft.com/en-us/documentation/articles/web-sites-nodejs-develop-deploy-mac/)
 Before we build our first Node.js app fork this repo.
@@ -77,7 +54,8 @@ In this section you will learn how to create a web app and enable git publishing
  ![](http://marianaggaga.com/wp-content/uploads/2016/02/webapp10.png)
 11. In the Continuous Deployment -> Click Configure Settings-> click Github
 12. Click Github, and then click OK. GitHub will  ask if you want to authorize Azure to have access to your accounts. It's safe to click Authorize application.
-13. Select your GitHub repository from the list and make sure you are deploying the master branch. Then click OK 
+13. Select DevFest_MSFTWorkshop GitHub repository from the list and make sure you are deploying the master branch. Click OK 
+ ![](https://cloud.githubusercontent.com/assets/3477155/9880464/bea7f6e4-5b99-11e5-9601-f7a6767e32ba.gif)
 
 ### Build a Node.js app
 This will be covered in the workshop. 
