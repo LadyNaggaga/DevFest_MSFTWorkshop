@@ -59,7 +59,7 @@ In this section you will learn how to create a web app and enable git publishing
  ![](https://cloud.githubusercontent.com/assets/3477155/9880464/bea7f6e4-5b99-11e5-9601-f7a6767e32ba.gif)
 
 
-## [Getting Started with Particle Photon board](https://docs.particle.io/guide/getting-started/connect/photon/)
+## Step 5 [Setting up Particle Photon board](https://docs.particle.io/guide/getting-started/connect/photon/)
 
 [How to get started with the Particle Photon board](https://docs.particle.io/guide/getting-started/start/photon/). 
 
@@ -73,12 +73,6 @@ Hardware
 3. Power source for USB cable (such as your computer, USB battery, or power brick)
 4. Your iPhone or Android smartphone
 
-Wifi Settings
-
-1. 2.4GHz capable router
-2. Channels 1-11
-3. WPA/WPA2 encryption
-4. On a broadcasted SSID network
 
 ###Connection your device over USB 
 
