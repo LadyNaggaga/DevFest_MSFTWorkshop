@@ -110,7 +110,11 @@ PO_KEY is our Project Oxford API key.
 
 `var oxfordEmotion = require("node-oxford-emotion")(process.env.PO_KEY);`
 
-Scroll to the bottom of the image.js file to see the code for the Photon Particle reference 
+Scroll to the bottom of the image.js file to see the code for the Photon Particle reference
+
+`  Spark.login({ username: process.env.USER_NAME, password: process.env.USER_PASS },             function(err, body) {
+      Spark.callFunction(process.env.SPARK_ID,'setMode',isHappy,function(err,data)`
+
 Take note of the User_Name, User_Spark , and Spark_ID , and PO_KEY variables because we will need them in the next step.
 
 
