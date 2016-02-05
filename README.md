@@ -121,10 +121,9 @@ Take note of the USER_NAME, USER_PASS  , and SPARK_ID , and PO_KEY variables bec
 - In the [Azure Portal](https://portal.azure.com), open the blade for the web app and click on the site we created earlier
 - Click All Settings.
 - Click Application Settings.
-- Scroll to App Settings 
+- Scroll to App Settings  and enter your process.env for Project Oxford API and Photon board.
 
-
-
+- Save changes and test your app by going to your website.
 
 ## Deploy to Azure
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
