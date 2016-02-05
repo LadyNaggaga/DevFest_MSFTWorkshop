@@ -101,6 +101,14 @@ place holder gif from Twilio
 ## Step 6  Configure web apps in Azure App Service
 Before we jump into the next portion, make sure you have your [Project Oxford Emotion API](https://github.com/LadyNaggaga/DevFest_MSFTWorkshop#step-2-sign-up-for--project-oxford-emotion-api), and your [particle device ID and access token](https://github.com/LadyNaggaga/DevFest_MSFTWorkshop#step-5-setting-up-particle-photon-board).
 
+#### Referencing the Project Oxford API and  Photon in your  the code 
+Open [routes/image.js](https://github.com/LadyNaggaga/DevFest_MSFTWorkshop/blob/master/routes/image.js) file
+
+The code snippet below is referencing your Project Oxford API key. It is great practice to never leave your key in your code. We use the [process.env](https://nodejs.org/api/process.html#process_process_env) to c onfig variables inside a Node.js application and PO_KEY is our Project Oxford API key.
+
+
+
+
 ### Sign into your azure account 
 
 Let's use our API keys. Open up your routes/image.js file 
