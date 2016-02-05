@@ -86,7 +86,7 @@ Software Particle Mobile App - [iPhone](https://itunes.apple.com/us/app/particle
 7.  Continue to the Particle app and follow the instructions to get your Photon online.
 #### Programming the particle Photon
 8.  Go to [online IDE](https://build.particle.io)  and sign in with your particle username and password
-9.  Copy & paste the code 
+[screen shots coming soon]
 
 ## Step 6  Configure web apps in Azure App Service
 Let's use our API keys. Open up your routes/image.js file 
