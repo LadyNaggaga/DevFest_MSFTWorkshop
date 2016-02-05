@@ -124,6 +124,7 @@ Take note of the USER_NAME, USER_PASS  , and SPARK_ID , and PO_KEY variables bec
 - Scroll to App Settings  and enter your process.env for Project Oxford API and Photon board.
 ![](http://marianaggaga.com/wp-content/uploads/2016/02/keys.png)
 - Save changes and test your app by going to your website.
+### [Repo to getting started with Emotion API with django](https://github.com/jsturtevant/happy-image-tester-django) 
 
 ## Deploy to Azure
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
