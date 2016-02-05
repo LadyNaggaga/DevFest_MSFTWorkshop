@@ -129,26 +129,7 @@ Take note of the USER_NAME, USER_PASS  , and SPARK_ID , and PO_KEY variables bec
 ## Deploy to Azure
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
-## Additional Resources 
-### [Node.js](https://nodejs.org/en/),[Socket.IO](http://socket.io/) & [Azure](https://www.dreamspark.com/Product/Product.aspx?productid=99)
-####Video Resources 
-Watch [Stacey Mulcahy]( https://twitter.com/bitchwhocodes) and [Rami Sayar]( https://twitter.com/ramisayar) in this incredibly interesting and entertaining intro to Node.js. 
-#####In this video you will learn:
-1. [Intro to Node.js ]( https://mva.microsoft.com/en-US/training-courses/building-apps-with-nodejs-jump-start-8422?l=CePazYKz_5504984382)
-2. [Intro to Express](https://mva.microsoft.com/en-US/training-courses/building-apps-with-nodejs-jump-start-8422?l=hPPfQZKz_4404984382)
-3. [Building a Backend]( https://mva.microsoft.com/en-US/training-courses/building-apps-with-nodejs-jump-start-8422?l=cyMHmZKz_4304984382) 
-    [What are web Socket?]( https://mva.microsoft.com/en-US/training-courses/building-apps-with-nodejs-jump-start-8422?l=cyMHmZKz_4304984382)
-  [NoSQL Database with MongoDB]( https://mva.microsoft.com/en-US/training-courses/building-apps-with-nodejs-jump-start-8422?l=cyMHmZKz_4304984382)
-4. [Creating UI]( https://mva.microsoft.com/en-US/training-courses/building-apps-with-nodejs-jump-start-8422?l=jJXdHaKz_5804984382)
-5. [Connecting the UI to the Backend ]( https://mva.microsoft.com/en-US/training-courses/building-apps-with-nodejs-jump-start-8422?l=1nDCeaKz_504984382)
-6. [Deploying your app to Azure ]( https://mva.microsoft.com/en-US/training-courses/building-apps-with-nodejs-jump-start-8422?l=xK3w2aKz_9304984382)
-
-####Other Resources 
-[Install the Azure CLI tools for Mac, Windows, and Linux](http://blogs.msdn.com/b/cdndevs/archive/2014/09/11/a-chatroom-for-all-part-2-welcome-to-express-with-node-js-and-azure.aspx)
-
-[Create and Deploy a Node App in Azure](https://azure.microsoft.com/en-us/documentation/articles/web-sites-nodejs-develop-deploy-mac/)
-
-[Quick guide to building a Node.js Chat Application with Socket.IO on Azure ](https://azure.microsoft.com/en-us/documentation/articles/cloud-services-nodejs-chat-app-socketio/)
+Other resources 
 
 ###[Github Getting started with Node.js on Azure ](https://github.com/sayar/NodeMVA)
 ###[Github Project Oxford Web Cam  ](https://github.com/bitchwhocodes/project-oxford-webcam)   
