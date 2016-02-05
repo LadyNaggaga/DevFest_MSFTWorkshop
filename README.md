@@ -48,7 +48,6 @@ In this section you will learn how to create a web app and enable git publishing
 5. Select a Subscription (this will be DreamSpark).
 6. Select a Resource Group or create a new one.
 7. Select an App Service plan/Location or create a new one.
-
 8. Click create
 
  ![](http://marianaggaga.com/wp-content/uploads/2016/02/webapp2.png)
@@ -88,9 +87,12 @@ Software Particle Mobile App - [iPhone](https://itunes.apple.com/us/app/particle
 8.  Go to [online IDE](https://build.particle.io)  and sign in with your particle username and password
 
 [screen shots coming soon]
+
 Get your Device ID  and Access token from your will need for the next section 
 - Copy your device ID from the web IDE by clicking on Devices.
+![](https://www.twilio.com/blog/wp-content/uploads/2015/10/mSbV1J9hj_Di2zw_hTQn0aJohHbHABoinC8MIS4FFC2K7BINRGIJJdBT_8V3yrnUW08Cr7QxoxiqEtfR1m0w4IYlXoE6W9_2elTdqoxz4Xpn0qXael0DGdro4sFoy1eXzDm4nnt4.png)place holder gif from Twilio
 - Copy the access token by clicking Settings.
+![](https://www.twilio.com/blog/wp-content/uploads/2015/10/mSbV1J9hj_Di2zw_hTQn0aJohHbHABoinC8MIS4FFC2K7BINRGIJJdBT_8V3yrnUW08Cr7QxoxiqEtfR1m0w4IYlXoE6W9_2elTdqoxz4Xpn0qXael0DGdro4sFoy1eXzDm4nnt4.png)place holder image from Twilio
 ## Step 6  Configure web apps in Azure App Service
 Let's use our API keys. Open up your routes/image.js file 
 COMING SOON 
