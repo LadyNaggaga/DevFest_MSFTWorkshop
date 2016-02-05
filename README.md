@@ -90,7 +90,9 @@ Software Particle Mobile App - [iPhone](https://itunes.apple.com/us/app/particle
 
 Get your Device ID  and Access token from your will need for the next section 
 - Copy your device ID from the web IDE by clicking on Devices.
-![](https://www.twilio.com/blog/wp-content/uploads/2015/10/mSbV1J9hj_Di2zw_hTQn0aJohHbHABoinC8MIS4FFC2K7BINRGIJJdBT_8V3yrnUW08Cr7QxoxiqEtfR1m0w4IYlXoE6W9_2elTdqoxz4Xpn0qXael0DGdro4sFoy1eXzDm4nnt4.png)place holder gif from Twilio
+![](https://www.twilio.com/blog/wp-content/uploads/2015/10/mSbV1J9hj_Di2zw_hTQn0aJohHbHABoinC8MIS4FFC2K7BINRGIJJdBT_8V3yrnUW08Cr7QxoxiqEtfR1m0w4IYlXoE6W9_2elTdqoxz4Xpn0qXael0DGdro4sFoy1eXzDm4nnt4.png)
+
+place holder gif from Twilio
 
 - Copy the access token by clicking Settings.
 
