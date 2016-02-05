@@ -77,11 +77,14 @@ Software Particle Mobile App - [iPhone](https://itunes.apple.com/us/app/particle
 4. Your [iPhone](https://itunes.apple.com/us/app/particle-build-photon-electron/id991459054?mt=8) or [Android](https://play.google.com/store/apps/details?id=io.particle.android.app)download the particle app.
 
 ###Setting up your Particle Photon
-1.  Go to [spark.io/start](https://docs.particle.io/guide/getting-started)
-2.  Select Photon 
-3.  Get a [particle account](https://build.particle.io/login) if you don't have one 
-4.  Connect your Photon to your acccount.You will do this with your iOS or android app.
-5.  On the packaging that your Photon Kit came in you'll see a barcode like the one below. Take note of the four digits in the thrid alpha
+1. Go to [spark.io/start](https://docs.particle.io/guide/getting-started)
+2. Select Photon 
+3. Get a [particle account](https://build.particle.io/login) if you don't have one 
+4. Connect your Photon to your acccount.You will do this with your iOS or android app.
+5. On the packaging that your Photon Kit came in you'll see a barcode like the one below. Take note of the four digits in the thrid alphanumeric sequence. ![image here]
+6.  Go to phone wifi setup and select your Photon-C***
+7.  Continue to the Particle app and follow the instructions to get your Photon online.
+8.  Go to online IDE  and sign in with your particle username and password
 
 ## Step 6  Configure web apps in Azure App Service
 Let's use our API keys. Open up your routes/image.js file 
