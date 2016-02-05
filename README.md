@@ -122,7 +122,7 @@ Take note of the USER_NAME, USER_PASS  , and SPARK_ID , and PO_KEY variables bec
 - Click All Settings.
 - Click Application Settings.
 - Scroll to App Settings  and enter your process.env for Project Oxford API and Photon board.
-
+![](http://marianaggaga.com/wp-content/uploads/2016/02/keys.png)
 - Save changes and test your app by going to your website.
 
 ## Deploy to Azure
