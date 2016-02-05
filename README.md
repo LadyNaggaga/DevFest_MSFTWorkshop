@@ -31,7 +31,8 @@ Emotions APIs detect emotions based on facial expressions.The Emotion API takes 
 5. Copy and paste your key into a notepad for now. 
 
 ## Step 3  Fork this repo
-![]() image place holder 
+![](http://marianaggaga.com/wp-content/uploads/2016/02/githubrepofork.png)
+
 
 ## Step 4 [Create a  web app with Azure App Service](https://azure.microsoft.com/en-us/documentation/articles/web-sites-nodejs-develop-deploy-mac/)
 Before we build our first Node.js app fork this repo.
