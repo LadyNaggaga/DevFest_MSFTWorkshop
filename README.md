@@ -104,7 +104,11 @@ Before we jump into the next portion, make sure you have your [Project Oxford Em
 #### Referencing the Project Oxford API and  Photon in your  the code 
 Open [routes/image.js](https://github.com/LadyNaggaga/DevFest_MSFTWorkshop/blob/master/routes/image.js) file
 
-The code snippet below is referencing your Project Oxford API key. It is great practice to never leave your key in your code. We use the [process.env](https://nodejs.org/api/process.html#process_process_env) to c onfig variables inside a Node.js application and PO_KEY is our Project Oxford API key.
+The code snippet below is referencing your Project Oxford API key. It is great practice to never leave your key in your code. We use the [process.env](https://nodejs.org/api/process.html#process_process_env) to config variables inside a Node.js application.
+
+PO_KEY is our Project Oxford API key.
+
+`var oxfordEmotion = require("node-oxford-emotion")(process.env.PO_KEY);`
 
 Scroll to the bottom of the image.js file to see the code for the Photon Particle reference 
 Take note of the User_Name, User_Spark , and Spark_ID , and PO_KEY variables because we will need them in the next step.
