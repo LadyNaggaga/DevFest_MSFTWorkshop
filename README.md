@@ -84,9 +84,9 @@ Software Particle Mobile App - [iPhone](https://itunes.apple.com/us/app/particle
 5. On the packaging that your Photon Kit came in you'll see a barcode like the one below. Take note of the four digits in the thrid alphanumeric sequence. ![image here]
 6.  Go to phone wifi setup and select your Photon-C***
 7.  Continue to the Particle app and follow the instructions to get your Photon online.
-#### Adding
+#### Programming the particle Photon
 8.  Go to [online IDE](https://build.particle.io)  and sign in with your particle username and password
-9.  
+9.  Copy & paste the code 
 
 ## Step 6  Configure web apps in Azure App Service
 Let's use our API keys. Open up your routes/image.js file 
