@@ -99,6 +99,10 @@ place holder gif from Twilio
 
 ![](http://marianaggaga.com/wp-content/uploads/2016/02/settings-e1454640147971.png)
 ## Step 6  Configure web apps in Azure App Service
+Before we jump into the next portion, make sure you have your [Project Oxford Emotion API](https://github.com/LadyNaggaga/DevFest_MSFTWorkshop#step-2-sign-up-for--project-oxford-emotion-api), and your [particle device ID and access token](https://github.com/LadyNaggaga/DevFest_MSFTWorkshop#step-5-setting-up-particle-photon-board).
+
+### Sign into your azure account 
+
 Let's use our API keys. Open up your routes/image.js file 
 COMING SOON 
 ## Deploy to Azure
