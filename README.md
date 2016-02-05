@@ -74,11 +74,14 @@ Software Particle Mobile App - [iPhone](https://itunes.apple.com/us/app/particle
 
 3. Power source for USB cable (such as your computer, USB battery, or power brick)
 
-4. Your iPhone or Android smartphone
+4. Your [iPhone](https://itunes.apple.com/us/app/particle-build-photon-electron/id991459054?mt=8) or [Android](https://play.google.com/store/apps/details?id=io.particle.android.app)download the particle app.
 
-###Sign up for Particle account
-1. Sign up for [particle account](https://build.particle.io/signup)
-COMING SOON 
+###Setting up your Particle Photon
+1.  Go to [spark.io/start](https://docs.particle.io/guide/getting-started)
+2.  Select Photon 
+3.  Get a [particle account](https://build.particle.io/login) if you don't have one 
+4.  Connect your Photon to your acccount.You will do this with your iOS or android app.
+5.   Before you get started, examine the packaging that your Photon, Photon Kit, or Internet Button came in
 
 ## Step 6  Configure web apps in Azure App Service
 Let's use our API keys. Open up your routes/image.js file 
