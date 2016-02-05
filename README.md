@@ -115,13 +115,17 @@ Scroll to the bottom of the image.js file to see the code for the Photon Particl
 `  Spark.login({ username: process.env.USER_NAME, password: process.env.USER_PASS },             function(err, body) {
       Spark.callFunction(process.env.SPARK_ID,'setMode',isHappy,function(err,data)`
 
-Take note of the User_Name, User_Spark , and Spark_ID , and PO_KEY variables because we will need them in the next step.
-
+Take note of the USER_NAME, USER_PASS  , and SPARK_ID , and PO_KEY variables because we will need them in the next step.
 
 ### Sign into your azure account 
+- In the [Azure Portal](https://portal.azure.com), open the blade for the web app and click on the site we created earlier
+- Click All Settings.
+- Click Application Settings.
+- Scroll to App Settings 
 
-Let's use our API keys. Open up your routes/image.js file 
-COMING SOON 
+
+
+
 ## Deploy to Azure
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
