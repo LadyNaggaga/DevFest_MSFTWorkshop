@@ -107,7 +107,7 @@ Open [routes/image.js](https://github.com/LadyNaggaga/DevFest_MSFTWorkshop/blob/
 The code snippet below is referencing your Project Oxford API key. It is great practice to never leave your key in your code. We use the [process.env](https://nodejs.org/api/process.html#process_process_env) to c onfig variables inside a Node.js application and PO_KEY is our Project Oxford API key.
 
 Scroll to the bottom of the image.js file to see the code for the Photon Particle reference 
-Take note of the 
+Take note of the User_Name, User_Spark , and Spark_ID , and PO_KEY variables because we will need them in the next step.
 
 
 ### Sign into your azure account 
