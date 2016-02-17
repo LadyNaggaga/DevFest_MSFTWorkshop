@@ -1,4 +1,5 @@
 # DevFest_MSFTWorkshop
+[![Gitter](https://badges.gitter.im/LadyNaggaga/DevFest_MSFTWorkshop.svg)](https://gitter.im/LadyNaggaga/DevFest_MSFTWorkshop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 DevFest 2016 Microsoft IoT Workshop. Requirements :  Hardware  Sparkfun Weather Shield + Particle Photon, [Visual Studio Code](https://code.visualstudio.com/Download) (free, opensource and available on Mac, Linux, and Windows),  Microsoft Azure account(ACTIVATE YOUR AZURE ACCOUNT USING [DREAMSPARK](https://www.dreamspark.com/Product/Product.aspx?productid=99)), [Node](https://nodejs.org/en/), and [Project Oxford API](https://www.projectoxford.ai/). 
 
